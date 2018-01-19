@@ -1,1 +1,2 @@
-rn-ntegration-with-existing-apps
+# rn-ntegration-with-existing-apps
+# The simplest example of RN integrate with existing app, which follows https://www.bing.com/search?q=github&qs=n&form=QBRE&sp=-1&pq=github&sc=8-6&sk=&cvid=C5C98CE204454356854CBAF863B5669E
